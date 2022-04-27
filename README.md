@@ -3,4 +3,4 @@ Desafios e anotacoes importantes - DIO
 
 
 ## Links relevantes
-[Meu portfolio](https://www.fenixfortal.artstation.com)
+[Meu portfolio](https://www.artstation.com/fenixfortal)
