@@ -1,6 +1,6 @@
 # Meu-percurso-na-DIO
-Desafios e anotações importantes - DIO
+Desafios e anotacoes importantes - DIO
 
 
 ##Links relevantes
-[Meu portfólio](fenixfortal.artstation.com)
+[Meu portfolio](fenixfortal.artstation.com)
